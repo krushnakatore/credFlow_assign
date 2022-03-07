@@ -1,3 +1,7 @@
+//Given a matrix of m x n elements, where m is the number of rows and n is the
+//number of columns. Write a program to return all elements of the matrix in spiral
+//order.
+
 let arr = [
   [1, 2, 3],
   [5, 6, 7],
